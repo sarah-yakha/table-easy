@@ -1,0 +1,17 @@
+table {
+    margin: 12px 12px;
+    
+}
+th {
+    border: 1px #dfdfe2;
+    padding: 6px 12px;
+    background-color:#dfdfe2;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+}
+
+td {
+    padding:  6px 12px;
+    
+}
